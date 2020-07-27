@@ -1,8 +1,8 @@
 # 汪潇凯/Wang XiaoKai
 ## 前端开发工程师/Web Develop Engineer
 
-- 手机：18511859064
-- 邮箱：wxk.hub@gmail.com
+- 手机：_18511859064_
+- 邮箱：_wxk.hub@gmail.com_
 
 ## 技术经历
 1. 熟练使用VScode、Xcode、Postman、iTerm2、微信开发者工具、快应用开发工具等开发者工具
@@ -83,5 +83,7 @@
     3. 学习态度强，只要业务场景有需求，马上投入时间研究解决方案
     4. 抗压能力强，拥有项目开发周期极短的开发经验
     
-
+    
+---
+<center>@2020 Made by WangXiaoKai</center>
 
