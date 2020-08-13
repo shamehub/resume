@@ -7,15 +7,14 @@
 ## 技术经历
 1. 熟练使用VScode、Xcode、Postman、iTerm2、微信开发者工具、快应用开发工具等开发者工具
 2. 熟练使用github、gitlab、SourceTree、svn等项目管理工具
-3. 扎实的HTLM5、CSS3、JavaScript、jQuery、node.js基本功
-4. 熟练使用React技术栈、Vue技术栈
+3. 扎实的HTLM5、CSS3、JavaScript、jQuery基本功
+4. 
 5. 熟练使用Bootstrap、antd、Material-ui等前端UI框架
-6. 掌握ES6、TypeScript、Ionic、Angular、PHP等知识
-7. 了解Linux系统、HTTP/HTTPSweb服务的部署脚本及nginx服务器配置
+6. 了解ES6、TypeScript、PHP等知识
+7. 了解Linux系统、HTTP/HTTPS web服务的部署脚本及nginx服务器配置
 8. 了解ios程序、微信小程序、快应用程序、php开发、程序部署、服务器配置等开发经验
 
 ## 项目经历
-<font size=3 >2号字</font>
 
     项目：九苑广告数字平台
     说明：一个ios渠道DSP广告投放数据的整合展示，分销商、广告主、管理员等多种权限及组合权限用户对数据的操作审批的平台
